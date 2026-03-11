@@ -17,7 +17,7 @@ This project aims to predict patient churn (attrition) using a synthetic healthc
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/patient-churn-prediction.git](https://github.com/YOUR_USERNAME/patient-churn-prediction.git)
+   git clone [https://github.com/ratraverfallick/patient-churn-prediction.git](https://github.com/ratraverfallick/patient-churn-prediction.git)
    ```
 2. Install dependencies:
    ``` bash
